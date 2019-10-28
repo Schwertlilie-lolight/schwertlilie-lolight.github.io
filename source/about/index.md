@@ -6,7 +6,7 @@ comments: false
 
 ## 黄油
 
-list 略
+list
 
 妹ゲー制覇目指す；
 
