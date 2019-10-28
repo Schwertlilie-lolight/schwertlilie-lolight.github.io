@@ -2,7 +2,7 @@
 
 [![travis-ci](https://travis-ci.org/wafer-li/wafer-li.github.io.svg?branch=source)](https://travis-ci.org/wafer-li/wafer-li.github.io)
 
-Please visit https://wafer.li
+Please visit https://schwertlilie-lolight.github.io
 
 ## Usage
 
