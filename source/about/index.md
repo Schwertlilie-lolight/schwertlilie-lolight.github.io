@@ -18,5 +18,6 @@ list 略
 
 **黄油就是生活**
 
+## 罗德岛
 
-![Kanmusu](/images/kanmusu.png)
+全图鉴缺暴行 官服 はつゆき#2598
