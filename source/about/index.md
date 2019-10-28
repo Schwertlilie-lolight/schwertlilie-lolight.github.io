@@ -1,23 +1,22 @@
 ---
 title: 关于我
-date: 2017-04-09 01:00:15
+date: 2019-10-28 EST
 comments: false
 ---
 
-## 代码
+## 黄油
 
-Java、Kotlin 和 Scala；
+list 略
 
-希望有一天能实现 JVM 平台语言制霸；
+妹ゲー制覇目指す；
 
-最近在烦恼要不要转前端……
+最近在烦恼时间真的不太够……
 
 ## 艦これ
 
-塔威提督，目前等级 119；
+柱岛提督，目前甲章 3；
 
-**舰娘就是生活**
+**黄油就是生活**
 
-[MyFleetGrils](https://myfleet.moe/user/11092700/top)
 
 ![Kanmusu](/images/kanmusu.png)
